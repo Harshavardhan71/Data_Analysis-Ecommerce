@@ -77,7 +77,4 @@ This project analyzes Amazon sales data sourced from Kaggle to gain insights int
 - Order cancellations over time
 
 ## Conclusion
-This project provides insights into Amazon sales patterns, helping businesses optimize their product offerings, marketing strategies, and operational efficiency. Future work can include:
-- Machine learning models for sales prediction
-- Sentiment analysis on customer reviews
-- Customer segmentation for personalized marketing
+This project provides insights into Amazon sales patterns, helping businesses optimize their product offerings, marketing strategies, and operational efficiency. 
